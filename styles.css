@@ -35,3 +35,7 @@ h1, h2 {
 p {
     padding: 0.5em;
 }
+
+footer p {
+    font-style: italic;
+}
