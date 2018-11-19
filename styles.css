@@ -19,8 +19,12 @@ header {
 }
 
 
-main {
+main,
+footer {
     padding: 20px;
+    max-width: 720px;
+    position: relative;
+    margin: 0 auto;
 }
 
 
@@ -30,8 +34,4 @@ h1, h2 {
 
 p {
     padding: 0.5em;
-}
-
-footer {
-    padding: 20px;
 }
