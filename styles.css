@@ -32,6 +32,10 @@ h1, h2 {
     padding: 0.5rem;
 }
 
+h2 {
+    padding-top: 2em;
+}
+
 p {
     padding: 0.5em;
     line-height: 1.6em;
