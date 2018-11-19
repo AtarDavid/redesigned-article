@@ -22,3 +22,16 @@ header {
 main {
     padding: 20px;
 }
+
+
+h1, h2 {
+    padding: 0.5em;
+}
+
+p {
+    padding: 0.5em;
+}
+
+footer {
+    padding: 20px;
+}
