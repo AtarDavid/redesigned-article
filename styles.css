@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Muli', sans-serif;
-
+    font-size: 18px;
 }
 
 header {
@@ -29,11 +29,16 @@ footer {
 
 
 h1, h2 {
-    padding: 0.5em;
+    padding: 0.5rem;
 }
 
 p {
     padding: 0.5em;
+}
+
+.special {
+    font-style: italic;
+    font-size: 1.2em;
 }
 
 footer p {
