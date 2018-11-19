@@ -34,11 +34,13 @@ h1, h2 {
 
 p {
     padding: 0.5em;
+    line-height: 1.6em;
 }
 
 .special {
     font-style: italic;
     font-size: 1.2em;
+    padding: 1em 2em;
 }
 
 footer p {
